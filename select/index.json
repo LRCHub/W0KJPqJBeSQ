@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "POWER TWO",
+  "base_artist": "HOTBLADE",
+  "createdAt": "2025-12-07T02:46:56.661034Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Power Two",
+      "artist": "HOTBLADE",
+      "has_synced": true,
+      "path": "select/01_Power_Two_HOTBLADE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "POWER TWO",
+      "artist": "Hotblade",
+      "has_synced": true,
+      "path": "select/02_POWER_TWO_Hotblade.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "power two",
+      "artist": "hotblade",
+      "has_synced": false,
+      "path": "select/03_power_two_hotblade.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Power Two - Seb Version",
+      "artist": "Hotblade",
+      "has_synced": false,
+      "path": "select/04_Power_Two_-_Seb_Version_Hotblade.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Power Two",
+      "artist": "HOTBLADE",
+      "has_synced": true,
+      "path": "select/05_Power_Two_HOTBLADE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Power Two - Seb Version",
+      "artist": "Hotblade",
+      "has_synced": false,
+      "path": "select/pl_01_Power_Two_-_Seb_Version_Hotblade.txt"
+    }
+  ]
+}
